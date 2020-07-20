@@ -14,8 +14,3 @@ I'm a Software Engineer with experience using Web and Mobile Technologies. I hav
 ⚡ Fun fact: 
   I started working on the frontend development and cause of that I learn Angular and I love it.
   
-📫 How to reach me:
-  - Twitter 🐦: <a href="https://twitter.com/chivaskt897" target="_blank">@chivaskt897</a>
-  - Instagram 📷: <a href="https://www.instagram.com/gilberto1712/" target="_blank">@gilberto1712</a>
-  - LinkedIn 👨🏻‍💻: <a href="https://www.linkedin.com/in/golivas-it/" target="_blank">Gilberto Olivas</a>
-  - Mail ✉: <a href="mailto:olivasgilberto@gmail.com" target="_blank">Send me an email</a>
