@@ -1,6 +1,7 @@
 ### Hi I'm Gilberto 👋
+
 [![Twitter: chivaskt897](https://img.shields.io/twitter/follow/chivaskt897?style=social)](https://twitter.com/chivaskt897)
-[![Linkedin: golivas-it](https://img.shields.io/badge/-golivas-it-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/golivas-it/)](https://www.linkedin.com/in/golivas-it/)
+[![Linkedin: Gilberto](https://img.shields.io/badge/-gilberto_olivas-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/golivas-it/)](https://www.linkedin.com/in/golivas-it/)
 [![GitHub GOI17](https://img.shields.io/github/followers/GOI17?label=follow&style=social)](https://github.com/GOI17)
 
 <img src="https://github.com/GOI17/GOI17/blob/master/header-flow.png"/>
