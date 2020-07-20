@@ -1,4 +1,4 @@
-### Hi I'm Gilberto <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
+### Hi, I'm Gilberto <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
 [![Twitter: chivaskt897](https://img.shields.io/twitter/follow/chivaskt897?style=social)](https://twitter.com/chivaskt897)
 [![Instagram: Gilberto Olivas](https://img.shields.io/badge/-Gilberto_Olivas-lightgray?style=flat-square&logo=Instagram&link=https://www.instagram.com/gilberto1712/)](https://www.instagram.com/gilberto1712/)
