@@ -7,7 +7,7 @@
 
 <img src="https://github.com/GOI17/GOI17/blob/master/header-flow.png"/>
 
-I'm a Software Engineer with experience using Web and Mobile Technologies. I have more experience on the backend development using python or php.
+I'm a Software Engineer with experience using Web and Mobile Technologies. I have more experience on the backend development using Python, Javascript or PHP.
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=GOI17&show_icons=true&hide_border=true)
 
