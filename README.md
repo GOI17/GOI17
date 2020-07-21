@@ -5,7 +5,7 @@
 [![Linkedin: Gilberto Olivas](https://img.shields.io/badge/-Gilberto_Olivas-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/golivas-it/)](https://www.linkedin.com/in/golivas-it/)
 [![GitHub GOI17](https://img.shields.io/github/followers/GOI17?label=follow&style=social)](https://github.com/GOI17)
 
-<img src="https://github.com/GOI17/GOI17/blob/master/header-flow.png"/>
+<img src="https://github.com/GOI17/GOI17/blob/master/header.png"/>
 
 I'm a Software Engineer with experience using Web and Mobile Technologies. I have more experience on the backend development using Python, Javascript or PHP.
 
