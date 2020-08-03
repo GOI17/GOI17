@@ -11,10 +11,10 @@ I'm a Software Engineer with experience using Web and Mobile Technologies. I hav
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=GOI17&show_icons=true&hide_border=true)
 
-⚡ Fun fact: 
+### Fun fact: ⚡ 
   I started working on the frontend development and cause of that I learn Angular and I love it.
  
- 👨🏻‍🏫 Interesting facts:
+### Interesting facts:  👨🏻‍🏫 
 <ul>
     <li>
         <H3>Architecture 🧱</H3>
