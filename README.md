@@ -11,7 +11,7 @@ I'm a Software Engineer with experience using Web and Mobile Technologies. I hav
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=GOI17&show_icons=true&hide_border=true)
 
-### Fun fact: ⚡ 
+## Fun fact: ⚡ 
   I started working on the frontend development and cause of that I learn Angular and I love it.
  
 
@@ -54,9 +54,9 @@ I'm a Software Engineer with experience using Web and Mobile Technologies. I hav
         * [FilledStacks](https://www.youtube.com/c/FilledStacks/videos)
         * [Flutter in 100 seconds](https://www.youtube.com/watch?v=lHhRhPV--G0)
     * ### JavaScript
-    * ### React
-      * [Mastering React | Code with Mosh](https://codewithmosh.com/p/mastering-react)
-      * [React Learning Path in 2020](https://www.youtube.com/watch?v=Q9Qx2Xef0do&feature=youtu.be)
+      * ### React
+        * [Mastering React | Code with Mosh](https://codewithmosh.com/p/mastering-react)
+        * [React Learning Path in 2020](https://www.youtube.com/watch?v=Q9Qx2Xef0do&feature=youtu.be)
       * ### Node
         * [The Complete Node.js Course | Code with Mosh](https://codewithmosh.com/p/the-complete-node-js-course)
         * [Modern JavaScript Learning Path in 2020](https://www.youtube.com/watch?v=gSnbnYffz7k&feature=youtu.be)
