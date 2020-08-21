@@ -7,12 +7,8 @@
 
 <img src="https://github.com/GOI17/GOI17/blob/master/header.png"/>
 
-## About me: 🤷🏻‍♂️
-I'm a Software Engineer with experience using Web and Mobile Technologies.
-
 ## Fun fact: ⚡ 
   I started working on the frontend development and cause of that I learn Angular 🅰 and I love it 💘.
- 
 
 ## Interesting facts:  👨🏻‍🏫
 * ### Architecture 🧱
