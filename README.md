@@ -7,12 +7,11 @@
 
 <img src="https://github.com/GOI17/GOI17/blob/master/header.png"/>
 
-I'm a Software Engineer with experience using Web and Mobile Technologies. I have more experience on the backend development using Python, Javascript or PHP.
-
-![Github stats](https://github-readme-stats.vercel.app/api?username=GOI17&show_icons=true&hide_border=true)
+## About me: 🤷🏻‍♂️
+I'm a Software Engineer with experience using Web and Mobile Technologies.
 
 ## Fun fact: ⚡ 
-  I started working on the frontend development and cause of that I learn Angular and I love it.
+  I started working on the frontend development and cause of that I learn Angular 🅰 and I love it 💘.
  
 
 ## Interesting facts:  👨🏻‍🏫
@@ -53,46 +52,46 @@ I'm a Software Engineer with experience using Web and Mobile Technologies. I hav
         * [Reso Coder](https://www.youtube.com/c/ResoCoder/videos)
         * [FilledStacks](https://www.youtube.com/c/FilledStacks/videos)
         * [Flutter in 100 seconds](https://www.youtube.com/watch?v=lHhRhPV--G0)
-    * ### JavaScript
-      * ### React
+    * ### JavaScript 🟨
+      * ### React ⚛
         * [Mastering React | Code with Mosh](https://codewithmosh.com/p/mastering-react)
         * [React Learning Path in 2020](https://www.youtube.com/watch?v=Q9Qx2Xef0do&feature=youtu.be)
-      * ### Node
+      * ### Node 📦
         * [The Complete Node.js Course | Code with Mosh](https://codewithmosh.com/p/the-complete-node-js-course)
         * [Modern JavaScript Learning Path in 2020](https://www.youtube.com/watch?v=gSnbnYffz7k&feature=youtu.be)
-    * ### PHP
+    * ### PHP 
       * ### Laravel
         * [Laravel PHP Framework Tutorial - Full Course for Beginners (2019)](https://www.youtube.com/watch?v=ImtZ5yENzgE)
-    * ### Python
-      * ### Flask
+    * ### Python 🐍
+      * ### Flask 🌶
         * [Flask App](https://www.youtube.com/watch?v=d1it0BSOEp0&t=1020s)
         * [Task Queues in Flask](https://www.youtube.com/watch?v=vnQd-5klDjU)
-        * ### Docker
+        * ### Docker 🌶 + 🐋
             * [Docker compose & Python Flask](https://www.youtube.com/watch?v=_UfGW_GpraQ&t=1247s)
             * [Docker & Python Flask. Contenedores con Python](https://www.youtube.com/watch?v=YENw-bNHZwg&t=1125s)
-        * ### Testing
+        * ### Testing 🌶 + 🧪
             * [TDD with Flask](https://www.youtube.com/watch?v=ACNRAfVMVPw&t=3389s)
             * [Performance Testing Python Tools](https://www.youtube.com/watch?v=2xeATRKjN0w)
-        * ### ORM's
+        * ### ORM's 🌶 + 🔍
             * [Lecture | ORMs, APIs](https://courses.edx.org/courses/course-v1:HarvardX+CS50W+Web/courseware/3b4d945d89eb40bcad81746770a81c3b/c5f10dc2fb5e457088720de0393a19a1/?child=first)
-        * ### Architecture Pattern's
+        * ### Architecture Pattern's 🌶 + 🧱
             * [ajgrover/hexagonal-architecture-python: An example backend implementing Hexagonal Architecture in Python using Flask and SqlAlchemy.](https://github.com/ajgrover/hexagonal-architecture-python)
-        * ### Design Pattern's
+        * ### Design Pattern's 🌶 + 🎨
             * [sunwei/oneapi-cc: oneapi.cc](https://github.com/sunwei/oneapi-cc)
             * [febus982/flask-ddd-repository](https://github.com/febus982/flask-ddd-repository)
             * [jiaju-yang/ddd-blog](https://github.com/jiaju-yang/ddd-blog)
-      * ### Django
+      * ### Django 🦄
           * [JustDjango](https://www.youtube.com/channel/UCRM1gWNTDx0SHIqUJygD-kQ/videos)
-      * ### Design Patterns
+      * ### Design Patterns 🐍 + 🎨
           * [Design Patterns in Python](https://www.youtube.com/watch?v=bsyjSW46TDg)
           * [You Don't Need That Design Patterns and Python](https://www.youtube.com/watch?v=CAdk_kYbeSY)
           * [Why you don't need design patterns in Python?](https://www.youtube.com/watch?v=G5OeYHCJuv0&t=14s)
-      * ### Testing
+      * ### Testing 🐍 + 🧪
           * [Introduction to TDD with Python](https://www.youtube.com/watch?v=KOED7MAOk6M)
           * [TDD in Python with pytest](https://www.youtube.com/watch?v=x5IbDPoBnb4&list=PLWtCrYLGt7T2REIrEcpGY6nT2t7Wcoj-m)
           * [Python Debugging con PDBPP](https://www.youtube.com/watch?v=VJN8R_my7WY)
-    * ### TypeScript
-      * ### Angular
+    * ### TypeScript 🟦
+      * ### Angular 🅰
           * [¿Qué es AOT en Angular?](https://www.youtube.com/watch?v=1iQoDKRzp_g)
           * [Angular Ivy: El nuevo motor de render](https://www.youtube.com/watch?v=narSIUoDvfU)
           * [Aplicando Lazy Loading en Angular](https://www.youtube.com/watch?v=KI6xyeyMCSo&t=1673s)
