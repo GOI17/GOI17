@@ -43,6 +43,7 @@
     * [Lecture | Git (2020)](https://courses.edx.org/courses/course-v1:HarvardX+CS50W+Web/courseware/ba04fcff2f544e4896970382f3ac4e9b/e1db1d5394cf476ba0c925010b94a5f4/?child=first)
     * [¿Cómo Funciona #Git Por Dentro? 🧙‍♂️ ¡La MAGIA de Git!](https://www.youtube.com/watch?v=EGhUWAEZpfw)
 * ### Languages 🗣
+    * [Google code reviews](https://www-freecodecamp-org.cdn.ampproject.org/c/s/www.freecodecamp.org/news/what-google-taught-me-about-code-reviews/amp/)
     * ### Dart
       * ### Flutter 🐤
         * [Reso Coder](https://www.youtube.com/c/ResoCoder/videos)
@@ -52,9 +53,16 @@
       * ### React ⚛
         * [Mastering React | Code with Mosh](https://codewithmosh.com/p/mastering-react)
         * [React Learning Path in 2020](https://www.youtube.com/watch?v=Q9Qx2Xef0do&feature=youtu.be)
+        * [Best practices with Hooks](https://blog.bitsrc.io/best-practices-with-react-hooks-69d7e4af69a7)
+        * [Clean up react code with custom Hooks](https://medium.com/swlh/clean-up-your-react-code-with-custom-hooks-57f7f4410593)
+        * [React server components](https://blog.bitsrc.io/react-server-components-1ca621ac2519)
+        * [useeffect 4 tips every developer should know](https://medium.com/swlh/useeffect-4-tips-every-developer-should-know-54b188b14d9c)
       * ### Node 📦
         * [The Complete Node.js Course | Code with Mosh](https://codewithmosh.com/p/the-complete-node-js-course)
-        * [Modern JavaScript Learning Path in 2020](https://www.youtube.com/watch?v=gSnbnYffz7k&feature=youtu.be)
+      * [Modern JavaScript Learning Path in 2020](https://www.youtube.com/watch?v=gSnbnYffz7k&feature=youtu.be)
+      * [Unit Testing](https://geekflare.com/javascript-unit-testing/)
+      * [Tricky questions](https://www.youtube.com/watch?v=MY0UBGX2FtA&ab_channel=CodingTech)
+      * [Google style guide](https://google.github.io/styleguide/jsguide.html)
     * ### PHP 
       * ### Laravel
         * [Laravel PHP Framework Tutorial - Full Course for Beginners (2019)](https://www.youtube.com/watch?v=ImtZ5yENzgE)
