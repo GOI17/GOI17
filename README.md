@@ -1,6 +1,6 @@
 # Hi, I'm Gilberto <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
-[![Twitter: chivaskt897](https://img.shields.io/twitter/follow/chivaskt897?style=social)](https://twitter.com/chivaskt897)
+[![Twitter: gilbertodev17](https://img.shields.io/twitter/follow/gilbertodev17?style=social)](https://twitter.com/gilbertodev17)
 [![Instagram: Gilberto Olivas](https://img.shields.io/badge/-Gilberto_Olivas-lightgray?style=flat-square&logo=Instagram&link=https://www.instagram.com/gilberto1712/)](https://www.instagram.com/gilberto1712/)
 [![Linkedin: Gilberto Olivas](https://img.shields.io/badge/-Gilberto_Olivas-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/golivas-it/)](https://www.linkedin.com/in/golivas-it/)
 [![GitHub GOI17](https://img.shields.io/github/followers/GOI17?label=follow&style=social)](https://github.com/GOI17)
