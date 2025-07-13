@@ -1,6 +1,6 @@
 ### Hi there, I'm José 👋
 
-I'm a Senior Frontend Engineer with 6+ years of experience building complex, user-focused applications from concept to launch. I'm passionate about creating high-quality products that solve real-world problems, especially for the Latin American market.
+I'm a Senior Frontend Engineer with 6+ years of experience building complex, user-focused applications from concept to launch. I'm passionate about creating high-quality products that solve real-world problems.
 
 ---
 
